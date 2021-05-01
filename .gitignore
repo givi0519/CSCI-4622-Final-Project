@@ -2,3 +2,10 @@
 *.au
 .ipynb_checkpoints/final_project-checkpoint.ipynb
 *.png
+.ipynb_checkpoints/data_extraction-checkpoint.ipynb
+.ipynb_checkpoints/data_extraction-checkpoint.ipynb
+.ipynb_checkpoints/exploratory_analysis-checkpoint.ipynb
+.ipynb_checkpoints/keras_NN-checkpoint.ipynb
+.ipynb_checkpoints/keras_NN_with_variance-checkpoint.ipynb
+.ipynb_checkpoints/image_CNN-checkpoint.ipynb
+.ipynb_checkpoints/keras_NN-checkpoint.ipynb
